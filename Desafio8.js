@@ -26,5 +26,5 @@ switch (nota) {
         console.log(`Conceito: E`);
         break;
     default:
-        console.log(`Nota inválida!`);
+        console.log(`Nota inválida!a`);
 }
